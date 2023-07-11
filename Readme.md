@@ -6,10 +6,10 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [MainWindow.xaml](./CS/PrintDXGridSample/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/PrintDXGridSample/MainWindow.xaml))
-* [MainWindow.xaml.cs](./CS/PrintDXGridSample/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/PrintDXGridSample/MainWindow.xaml.vb))
-* [MainWindowViewModel.cs](./CS/PrintDXGridSample/MainWindowViewModel.cs) (VB: [MainWindowViewModel.vb](./VB/PrintDXGridSample/MainWindowViewModel.vb))
-* [Person.cs](./CS/PrintDXGridSample/Person.cs) (VB: [Person.vb](./VB/PrintDXGridSample/Person.vb))
+* [MainWindow.xaml](./CS/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/MainWindow.xaml.vb))
+* [MainWindowViewModel.cs](./CS/MainWindowViewModel.cs) (VB: [MainWindowViewModel.vb](./VB/MainWindowViewModel.vb))
+* [Person.cs](./CS/Person.cs) (VB: [Person.vb](./VB/Person.vb))
 <!-- default file list end -->
 # How to update the Print Preview according to the changes made in DXGrid
 
